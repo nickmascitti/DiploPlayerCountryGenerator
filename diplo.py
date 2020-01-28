@@ -1,5 +1,5 @@
 # A simple program to randomly decide the respective nation of each Diplomacy player
-#Prgrammed by Nick Mascitti 
+#Programmed by Nick Mascitti 
 
 import random 
 
@@ -25,5 +25,5 @@ for i in range(7):
 	idx += 1
 
 print("\n\"In wartime, truth is so precious that she should always be attended by a\
- bodyguard of lies.\"- Winston Churchill\
-	\n\nGOOD LUCK GENTLEMEN, THE WORLD IS WATCHING.")
+ bodyguard of lies.\"- Winston Churchill")
+	
